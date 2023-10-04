@@ -1,0 +1,1 @@
+Through twiking with the number and the parameters in the animation transitions inspector the player gets to deside how speed of the animation is played and make the animation change more realistic

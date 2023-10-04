@@ -1,0 +1,11 @@
+● Splinter cell
+● Start/End timestamps of the analyzed segment.
+57:48-58:50
+● Characters/types in scene
+You the player
+Enemy AI(alot)
+
+● Identify all of the different/unique behaviours/states the characters exhibit
+Enemy AI has two dirffent state in the game. They will be moving towards a point in the game. After reaching the point the AI will result in idle.
+
+You the player: The player are constainly switch state in the game. And depend on the context of the object that the player is interacting with the player can choose dirffent action. For example when the player is interacting with the door at 58:17 the player are able to choose form a list of choice. Where the player could choose to pick the lock on the door or take a look at the inside through tools.
